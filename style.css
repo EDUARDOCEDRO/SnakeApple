@@ -1,0 +1,20 @@
+
+body{
+    background-image: url("cenario.jpg");
+}
+
+
+
+
+
+
+
+
+#stage{
+    border: 1px solid rgb(180, 3, 224);
+    box-shadow: 7px 7px 7px 7px rgb(249, 250, 248);
+    border-radius: 8px;
+    width: 42%;
+    margin-left: 25em;
+   
+}
